@@ -1,5 +1,5 @@
 # sre
-***
+
 ## 목적
 - Site Reliability Engineering 이해
 
